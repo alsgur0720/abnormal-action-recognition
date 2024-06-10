@@ -1,0 +1,74 @@
+.container {
+    max-width: 1200px;
+    margin: auto;
+    position: relative;
+}
+
+.header h1 {
+    color: #27ae60; /* Green color for Sunny Factory */
+    padding-left: 20px;
+}
+
+.header h2 .underline {
+    border-bottom: 2px solid #34495e;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.main-content {
+    display: flex;
+    size: 50%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.map {
+    width: 25%;
+}
+
+.video-area {
+    width: 45%;
+    background-color: #ecf0f1; /* Light gray background */
+    padding: 20px;
+    position: relative;
+}
+
+.video-area video {
+    width: 100%;
+    height: auto;
+    background-color: #000;
+}
+
+.action-bar {
+    background-color: #27ae60; /* Green color to match the button */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action-bar span {
+    color: white;
+}
+
+.call-button {
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.subset {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #34495e; /* Darker shade for the subset background */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    z-index: 1000;
+}

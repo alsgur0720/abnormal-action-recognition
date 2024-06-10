@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header h1 {
+    color: #6dc363; /* Match the color to the Sunny Factory logo */
+    text-align: left;
+    font-size: medium; 
+    padding-left: 20px;
+    margin-bottom: 60px; /* Adjust the size to match your image */
+    
+}
+
+.header h2 {
+    color: #010102; /* Adjust the color to match the Real Time Robot Tracking text */
+    text-align: left;
+    margin-bottom: 30px;  /* Add padding to not stick to the edge */
+    padding-left: 20px;
+    padding-bottom: 10px; /* Add padding below for space under the border */
+    border-bottom: 1px solid #0c0e11; /* Add a border to represent the underline */
+    width: 1000px;
+}
+
+.map-container {
+    text-align: center; /* Center the map image */
+}
+
+.map-container img {
+    width: 30%;
+    left: 5px; /* Adjust the width as needed */
+    border: 1px solid #34495e; /* Add border if present in the original image */
+}
+
+.subset {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #34495e; /* Assuming the subset background is a darker shade */
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px; /* Round corners as in the original image */
+    font-weight: bold;
+    font-size: x-small;
+    z-index: 1000; /* Ensure it sits above other elements */
+}

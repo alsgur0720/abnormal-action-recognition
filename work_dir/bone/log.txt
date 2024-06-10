@@ -1,0 +1,3 @@
+[ Thu Jul 13 14:37:20 2023 ] Load weights from ./pretrained/run-60-37560.pt.
+[ Thu Jul 13 14:38:01 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 14:38:01 2023 ] using warm up, epoch: 5

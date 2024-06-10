@@ -1,0 +1,86 @@
+[ Thu Jul 13 20:40:50 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 20:40:50 2023 ] using warm up, epoch: 5
+[ Thu Jul 13 20:53:30 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 20:53:32 2023 ] using warm up, epoch: 5
+[ Thu Jul 13 21:17:11 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 21:17:11 2023 ] using warm up, epoch: 5
+[ Thu Jul 13 21:29:26 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 21:29:28 2023 ] using warm up, epoch: 5
+[ Thu Jul 13 21:57:19 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 21:57:20 2023 ] using warm up, epoch: 5
+[ Thu Jul 13 22:57:31 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Jul 13 22:57:32 2023 ] using warm up, epoch: 5
+[ Fri Jul 14 13:50:43 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Fri Jul 14 13:50:45 2023 ] using warm up, epoch: 5
+[ Tue Aug 29 10:27:28 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Tue Aug 29 10:27:28 2023 ] using warm up, epoch: 5
+[ Tue Aug 29 10:37:12 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Tue Aug 29 10:37:13 2023 ] using warm up, epoch: 5
+[ Tue Aug 29 10:46:37 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Tue Aug 29 10:46:37 2023 ] using warm up, epoch: 5
+[ Tue Aug 29 10:52:33 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Tue Aug 29 10:52:33 2023 ] using warm up, epoch: 5
+[ Tue Aug 29 11:12:21 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Tue Aug 29 11:12:21 2023 ] using warm up, epoch: 5
+[ Wed Aug 30 20:08:49 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Wed Aug 30 20:08:51 2023 ] using warm up, epoch: 5
+[ Thu Aug 31 20:09:48 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Aug 31 20:09:49 2023 ] using warm up, epoch: 5
+[ Thu Aug 31 20:10:13 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Aug 31 20:10:13 2023 ] using warm up, epoch: 5
+[ Thu Aug 31 20:12:49 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Aug 31 20:12:50 2023 ] using warm up, epoch: 5
+[ Thu Aug 31 20:16:50 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Aug 31 20:16:50 2023 ] using warm up, epoch: 5
+[ Thu Aug 31 21:07:41 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Thu Aug 31 21:07:41 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 12:57:45 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 12:57:46 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 13:01:27 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 13:01:28 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 13:02:34 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 13:02:34 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 14:22:00 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 14:22:01 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 19:26:02 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 19:26:03 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 20:43:42 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 20:43:43 2023 ] using warm up, epoch: 5
+[ Mon Sep  4 22:57:29 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Mon Sep  4 22:57:29 2023 ] using warm up, epoch: 5
+[ Sat Sep  9 23:02:26 2023 ] Load weights from ./pretrained/runs-60-37560.pt.
+[ Sat Sep  9 23:02:27 2023 ] using warm up, epoch: 5
+[ Mon Sep 11 16:25:52 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Mon Sep 11 16:25:53 2023 ] using warm up, epoch: 5
+[ Mon Sep 11 17:02:12 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Mon Sep 11 17:02:12 2023 ] using warm up, epoch: 5
+[ Mon Sep 11 17:40:54 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Mon Sep 11 17:40:54 2023 ] using warm up, epoch: 5
+[ Mon Sep 11 18:20:05 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Mon Sep 11 18:20:05 2023 ] using warm up, epoch: 5
+[ Mon Sep 11 19:07:09 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Mon Sep 11 19:07:10 2023 ] using warm up, epoch: 5
+[ Tue Sep 12 10:13:00 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Tue Sep 12 10:13:00 2023 ] using warm up, epoch: 5
+[ Tue Sep 12 11:27:29 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Tue Sep 12 11:27:29 2023 ] using warm up, epoch: 5
+[ Tue Sep 12 12:03:01 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Tue Sep 12 12:03:02 2023 ] using warm up, epoch: 5
+[ Tue Sep 12 12:38:35 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Tue Sep 12 12:38:35 2023 ] using warm up, epoch: 5
+[ Tue Sep 12 13:08:35 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Tue Sep 12 13:08:35 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:16:15 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Wed Sep 13 09:16:16 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:16:38 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Wed Sep 13 09:16:39 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:16:52 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Wed Sep 13 09:16:53 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:17:06 2023 ] Load weights from ./pretrained/ntu120/runs-62-61008.pt.
+[ Wed Sep 13 09:17:07 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:18:35 2023 ] Load weights from ./pretrained/runs-58-57072.pt.
+[ Wed Sep 13 09:18:35 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:18:47 2023 ] Load weights from ./pretrained/runs-58-57072.pt.
+[ Wed Sep 13 09:18:48 2023 ] using warm up, epoch: 5
+[ Wed Sep 13 09:19:32 2023 ] Load weights from ./pretrained/runs-58-57072.pt.
+[ Wed Sep 13 09:19:33 2023 ] using warm up, epoch: 5

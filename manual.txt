@@ -1,0 +1,36 @@
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir/bone --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir/bone-motion --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir/joint-motion --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+
+
+
+
+
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir/occlusion/no_leg --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+
+python main.py --config ./config/nturgbd-cross-subject/default.yaml --work-dir ./work_dir/occlusion/no_leg --phase test --save-score True --weights ./pretrained/runs-60-37560.pt --device 0
+
+
+
+
+
+C:\Users\vimlab\anaconda3\Scripts\activate
+
+
+# Example: ensemble four modalities of CTRGCN on NTU RGB+D 120 cross subject
+python ensemble.py --dataset ntu/xsub --joint-dir ./work_dir/joint --bone-dir ./work_dir/bone --joint-motion-dir ./work_dir/joint-motion --bone-motion-dir ./work_dir/bone-motion
+
+
+
+
+python main.py --config ./config/nturgbd120-cross-set/default.yaml --work-dir ./work_dir/test --phase test --save-score True --weights ./pretrained/runs-58-57072.pt --device 0
+
+
+python main.py --config ./config/nturgbd120-cross-set/default.yaml --work-dir ./work_dir/train_finetune --phase train --save-score True --weights ./pretrained/runs-58-57072.pt --device 0
+

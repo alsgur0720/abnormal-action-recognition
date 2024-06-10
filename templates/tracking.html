@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sunny Factory - Abnormal Action Recognition</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Sunny Factory</h1>
+            <h2><span class="underline">Abnormal Action Recognition</span></h2>
+        </div>
+        <div class="main-content">
+            <div class="map">
+                <img src="{{ url_for('static', filename='image 4.png') }}" alt="Factory Map">
+            </div>
+            <div class="video-area">
+                <!-- Here is where we'll embed the video -->
+                <video controls>
+                    <source src="{{ url_for('static', filename='S001C001P001R001A043_rgb.mp4') }}" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+                <div class="action-bar">
+                    <span>Action: Falling</span>
+                    <button class="call-button">Call 119</button>
+                </div>
+            </div>
+        </div>
+        <div class="subset">
+            Subset (2)
+        </div>
+    </div>
+    <form action="/predict" method="get"> 
+        <button type="submit">Run Function</button>
+    </form>
+</body>
+</html>

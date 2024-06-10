@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider Example</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style2.css') }}">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <!-- Slick Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Sunny Factory</h1>
+        <nav>
+            <ul>
+                <li><a href="http://127.0.0.1:8080/upload" class = "video-demo-link"> Video Demo </a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="main-slider">
+        <div class="item image">
+            <span class="loading">Loading...</span>
+            <figure>
+                <div class="slide-image slide-media" style="background-image:url('https://i.ibb.co/q7QxNgT/sunny.jpg');">
+                    <img data-lazy="https://i.ibb.co/q7QxNgT/sunny.jpg" class="image-entity" />
+                </div>
+                <figcaption class="caption">Monitoring System</figcaption>
+            </figure>
+        </div>
+
+    
+    </section>
+    <section class="container">
+        <div class="content">
+            <p>Welcome to demo page.</p>
+            
+        </div>
+    </section>
+    </section>
+    <!-- Scripts at the end of the body for better loading performance -->
+    <script src="{{ url_for('static', filename='slider.js') }}"></script>
+</body>
+</html>
+
+
